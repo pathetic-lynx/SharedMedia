@@ -6,13 +6,13 @@ _ALL CREDITS GO TO FILES OWNERS (License files included in the package)_
 
 ## Current Status
 
-| Media      |      Count    |
-|------------|:-------------:|
-| Background |     **07**    |
-| Border     |     **19**    |
-| Font       |     **107**    |
-| Statusbar  |     **120**    |
-| Sound      |     **24**    |
+| Media      |  Count  |
+| ---------- | :-----: |
+| Background | **07**  |
+| Border     | **19**  |
+| Font       | **116** |
+| Statusbar  | **120** |
+| Sound      | **24**  |
 
 ## Install
 

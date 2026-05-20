@@ -157,6 +157,16 @@ LSM:Register(MediaType_FONT, "X360", [[Interface\AddOns\SharedMedia\Media\Fonts\
 LSM:Register(MediaType_FONT, "Yanone Kaffeesatz Regular", [[Interface\AddOns\SharedMedia\Media\Fonts\YanoneKaffeesatzRegular.ttf]])
 LSM:Register(MediaType_FONT, "Yellowjacket", [[Interface\AddOns\SharedMedia\Media\Fonts\Yellowjacket.ttf]])
 
+LSM:Register(MediaType_FONT, "ActionMan", [[Interface\AddOns\SharedMedia\Media\Fonts\ActionMan.ttf]])
+LSM:Register(MediaType_FONT, "DejaVuSans-Bold", [[Interface\AddOns\SharedMedia\Media\Fonts\DejaVuSans-Bold.ttf]])
+LSM:Register(MediaType_FONT, "DejaVuSans", [[Interface\AddOns\SharedMedia\Media\Fonts\DejaVuSans.ttf]])
+LSM:Register(MediaType_FONT, "LiberationSans-Regular", [[Interface\AddOns\SharedMedia\Media\Fonts\LiberationSans-Regular.ttf]])
+LSM:Register(MediaType_FONT, "LiberationSerif-Regular", [[Interface\AddOns\SharedMedia\Media\Fonts\LiberationSerif-Regular.ttf]])
+LSM:Register(MediaType_FONT, "PTSansNarrow-Bold", [[Interface\AddOns\SharedMedia\Media\Fonts\PTSansNarrow-Bold.ttf]])
+LSM:Register(MediaType_FONT, "Prototype", [[Interface\AddOns\SharedMedia\Media\Fonts\Prototype.ttf]])
+LSM:Register(MediaType_FONT, "Verdana", [[Interface\AddOns\SharedMedia\Media\Fonts\Verdana.ttf]])
+LSM:Register(MediaType_FONT, "centurygothic", [[Interface\AddOns\SharedMedia\Media\Fonts\centurygothic.ttf]])
+
 -- --------------
 -- STATUSBAR (120)
 -- --------------
